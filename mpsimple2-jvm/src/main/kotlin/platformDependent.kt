@@ -1,0 +1,1 @@
+actual fun platformDependent(): String = "jvm"

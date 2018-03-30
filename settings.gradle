@@ -1,0 +1,3 @@
+rootProject.name = 'mpsimple2'
+
+include 'mpsimple2-jvm', 'mpsimple2-js'
